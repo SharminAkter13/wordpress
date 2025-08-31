@@ -1,0 +1,42 @@
+/*
+ * styles for Header pattern (header-navbar)
+ */
+
+#header-navbar { /*Overwriting to my Bootstrap*/
+	background-color: #ffffff !important; /*background color of logo for mobile device*/
+}
+
+@media (min-width: 768px) { /*Navigation for PC*/
+#navbar-container {
+	background-color: transparent !important; /*Background color of logo for PC*/
+ }
+}
+
+@media (min-width: 768px) { /*Navigation menu for PC*/
+#navbar{
+	background-color: #555555;
+ }
+}
+
+#navbar ul { /*navigation menu list for mobile device*/
+	background-color: #ffffff;
+ }
+
+.navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:focus { /*navigation menu list for mobile device*/
+	color: #000000;
+}
+
+@media (min-width: 768px) { /*navigation menu list for PC*/
+#navbar ul {
+	background-color: #555555;
+ }
+}
+
+.navbar-nav > li > a { /*navigation menu list for mobile device*/
+	color: #000000;
+}
+@media (min-width: 768px) { /*navigation menu list for PC*/
+.navbar-nav > li > a {
+	color: #ffffff !important;
+ }
+}

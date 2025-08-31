@@ -1,0 +1,81 @@
+/**
+ *
+ * v1-editors.css
+ * Version: 1.2.5
+ * Author: Masamichi Kanehara
+ * Copyright: Masamichi Kanehara 2023
+ * 
+ */
+
+/*
+ * styles for display-none
+ */
+.d-none, .d-sm-none, .d-md-none, .d-lg-none, .d-xl-none, .d-xxl-none {
+	display: initial !important;
+}
+
+/*
+ * styles for carousel
+ */
+.carousel-item {
+	position: initial;
+	display: initial;
+	float: left;
+	width: 100%;
+	margin-right: initial;
+	-webkit-backface-visibility: initial;
+	backface-visibility: initial;
+	transition: transform 0.6s ease-in-out;
+}
+@media (prefers-reduced-motion: reduce) {
+	.carousel-item {
+	transition: none;
+ }
+}
+
+.carousel-item.active,
+.carousel-item-next,
+.carousel-item-prev {
+	display: block;
+}
+
+.carousel-item {
+	position: relative !important;
+	display: block !important;
+	float: left !important;
+	width: 100% !important;
+}
+.carousel-item.active,
+.carousel-item-next,
+.carousel-item-prev {
+	display: block !important;
+}
+
+/*
+ * styles for modal
+ */
+.modal {
+  --bs-modal-padding: initial !important;
+  --bs-modal-margin: initial !important;
+  --bs-modal-header-padding-x: initial !important;
+  --bs-modal-header-padding-y: initial !important;
+  --bs-modal-header-padding: initial !important;
+  position: initial !important;
+  top: initial !important;
+  left: initial !important;
+  display: initial !important;
+  overflow-x: initial !important;
+  overflow-y: initial !important;
+  outline: initial !important;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .modal.fade .modal-dialog {
+    transition: initial !important;
+  }
+}
+.modal.fade {
+	display: block !important;
+	opacity:1;
+	padding-top:30px;
+}

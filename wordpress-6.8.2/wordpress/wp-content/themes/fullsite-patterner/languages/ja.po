@@ -1,0 +1,524 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FullSite-Patterner\n"
+"POT-Creation-Date: 2023-06-24 14:54+0900\n"
+"PO-Revision-Date: 2023-06-24 15:19+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.3.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: functions/block-styles.php:22 functions/block-styles.php:54
+#: functions/block-styles.php:86
+msgid "underline"
+msgstr "下線装飾"
+
+#: functions/block-styles.php:30 functions/block-styles.php:62
+#: functions/block-styles.php:94
+msgid "over&underline"
+msgstr "上下線装飾"
+
+#: functions/block-styles.php:38 functions/block-styles.php:70
+#: functions/block-styles.php:102
+msgid "underline&left, right vertical line"
+msgstr "下線・左右縦帯装飾"
+
+#: functions/block-styles.php:46 functions/block-styles.php:78
+#: functions/block-styles.php:110
+msgid "left vertical line"
+msgstr "左端縦帯装飾"
+
+#: functions/blockpattern.php:18
+msgid "header"
+msgstr ""
+
+#: functions/blockpattern.php:19
+msgid "footer"
+msgstr ""
+
+#: functions/blockpattern.php:20
+msgid "grid"
+msgstr ""
+
+#: functions/blockpattern.php:21
+msgid "article"
+msgstr ""
+
+#: functions/blockpattern.php:22
+msgid "carousel"
+msgstr ""
+
+#: functions/blockpattern.php:23
+msgid "slider"
+msgstr ""
+
+#: functions/blockpattern.php:24
+msgid "menu"
+msgstr ""
+
+#: functions/blockpattern.php:25
+msgid "navigation"
+msgstr ""
+
+#: functions/blockpattern.php:26
+msgid "card"
+msgstr ""
+
+#: functions/blockpattern.php:27
+msgid "box"
+msgstr ""
+
+#: functions/blockpattern.php:28
+msgid "balloon"
+msgstr ""
+
+#: functions/blockpattern.php:29
+msgid "accordion"
+msgstr ""
+
+#: functions/blockpattern.php:30
+msgid "alert"
+msgstr ""
+
+#: functions/blockpattern.php:31
+msgid "button"
+msgstr ""
+
+#: functions/blockpattern.php:32
+msgid "dropdown"
+msgstr ""
+
+#: functions/blockpattern.php:33
+msgid "popover"
+msgstr ""
+
+#: functions/blockpattern.php:34
+msgid "table"
+msgstr ""
+
+#: functions/blockpattern.php:35
+msgid "font"
+msgstr ""
+
+#: functions/blockpattern.php:36
+msgid "icon"
+msgstr ""
+
+#: functions/blockpattern.php:37
+msgid "form"
+msgstr ""
+
+#: functions/blockpattern.php:38
+msgid "query"
+msgstr ""
+
+#: functions/blockpattern.php:39
+msgid "breadcrumb"
+msgstr ""
+
+#: functions/blockpattern.php:40
+msgid "text-align"
+msgstr ""
+
+#: functions/blockpattern.php:41
+msgid "display-none"
+msgstr ""
+
+#: functions/blockpattern.php:42
+msgid "random"
+msgstr ""
+
+#: functions/blockpattern.php:43
+msgid "ads-tag"
+msgstr ""
+
+#: functions/blockpattern.php:44
+msgid "pagetop"
+msgstr ""
+
+#: functions/blockpattern.php:45
+msgid "1column-carousel-frame"
+msgstr ""
+
+#: functions/blockpattern.php:46
+msgid "1column-carousel-noframe"
+msgstr ""
+
+#: functions/blockpattern.php:47
+msgid "1column-mainvisual-frame"
+msgstr ""
+
+#: functions/blockpattern.php:48
+msgid "1column-mainvisual-noframe"
+msgstr ""
+
+#: functions/blockpattern.php:49
+msgid "1column-mainimg-frame"
+msgstr ""
+
+#: functions/blockpattern.php:50
+msgid "1column-mainimg-noframe"
+msgstr ""
+
+#: functions/blockpattern.php:51
+msgid "1column-frame"
+msgstr ""
+
+#: functions/blockpattern.php:52
+msgid "1column-noframe"
+msgstr ""
+
+#: functions/blockpattern.php:53
+msgid "2column-R-frame"
+msgstr ""
+
+#: functions/blockpattern.php:54
+msgid "2column-R-noframe"
+msgstr ""
+
+#: functions/blockpattern.php:55
+msgid "2column-L-frame"
+msgstr ""
+
+#: functions/blockpattern.php:56
+msgid "2column-L-noframe"
+msgstr ""
+
+#: functions/widget.php:20
+msgid ""
+"[In the head] You can add a \"custom HTML\" widget with + and insert it in "
+"the head of the page. Enter and update google tags, JavaScript tags, etc."
+msgstr ""
+"【head内】「カスタムHTML」のウィジェットを＋で追加し、googleタグやJavaScript"
+"タグなどを記入し、更新する"
+
+#: functions/widget.php:29
+msgid ""
+"[Length of excerpt]Add the \"Custom HTML\" widget with +, enter the count of "
+"excerpt"
+msgstr ""
+"【抜粋の長さ】「カスタムHTML」のウィジェットを＋で追加し、記事抜粋の文字数を"
+"半角数字で記入し、更新する"
+
+#: patterns/404-article-2-column-l.php:22
+#: patterns/404-article-2-column-r.php:22
+msgid "Page Not Found."
+msgstr "お探しのページが見つかりませんでした。"
+
+#: patterns/404-article-2-column-l.php:26
+#: patterns/404-article-2-column-r.php:26
+msgid "Sorry, please find the desired page using the menu or search."
+msgstr "申し訳ございませんが、メニューから目的のページをお探しください。"
+
+#: patterns/cta-cover-1.php:15 patterns/cta-cover-2.php:30
+#: patterns/cta-cover-left-upper.php:30 patterns/cta-cover-right-upper.php:30
+msgid ""
+"WordPress block theme for full site editing that can replace over 100 site"
+msgstr ""
+"100通り以上のサイトパターンを差し替えできる、フルサイト編集のためのWordPress"
+"ブロックテーマ「FullSite-Patterner」"
+
+#: patterns/cta-cover-1.php:20 patterns/cta-cover-2.php:35
+#: patterns/cta-cover-left-upper.php:35 patterns/cta-cover-right-upper.php:35
+msgid "「FullSite-Patterner」Document download"
+msgstr "資料ダウンロード"
+
+#: patterns/frontpage-article-1-column.php:20
+#: patterns/frontpage-article-2-column-l.php:23
+#: patterns/frontpage-article-2-column-r.php:23
+#: patterns/header-navbar-mainimg.php:68
+#: patterns/header-navbar-mainvisual.php:68
+msgid ""
+"WordPress block theme for full site editing that can replace over 100 site "
+"patterns"
+msgstr ""
+"100通り以上のサイトパターンを差し替えできる、フルサイト編集のためのWordPress"
+"ブロックテーマ「FullSite-Patterner」"
+
+#: patterns/frontpage-article-2-column-l.php:30
+#: patterns/frontpage-article-2-column-r.php:30
+msgid "New article"
+msgstr "新着記事"
+
+#: patterns/menu-3-column-pickup.php:21 patterns/menu-3-column-pickup.php:31
+#: patterns/menu-3-column-pickup.php:41 patterns/menu-4-column-pickup.php:21
+#: patterns/menu-4-column-pickup.php:31 patterns/menu-4-column-pickup.php:41
+#: patterns/menu-4-column-pickup.php:51
+msgid "Pick-up Article"
+msgstr "ピックアップコンテンツ"
+
+#: patterns/menu-4-column-1.php:25
+msgid ""
+"\"FullSite-Patterner\" is a WordPress block theme that you can easily "
+"install and replace the entire page with patterns, and freely replace "
+"headers, footers, and parts."
+msgstr ""
+"「FullSite-Patterner」は、簡単に設置して、ページ全体をパターンごと差し替えで"
+"き、ヘッダー、フッター、メニュー、パーツの差し替えも自由なWordPressのブロック"
+"テーマです。"
+
+#: patterns/menu-4-column-1.php:39
+msgid ""
+"A free WordPress block theme with ready-to-use sample sites and full site "
+"editing. Upgradable to the paid version with many functions and abundant "
+"block patterns."
+msgstr ""
+"すぐにサンプルサイトが設置され、フルサイト編集ができる無料のWordPressブロック"
+"テーマです。多機能・豊富なブロックパターンの有料版にUPGRADE可能。"
+
+#: patterns/menu-4-column-1.php:53
+msgid ""
+"After installing \"FullSite-patterner\", make it your own site by setting "
+"the logo image, changing the text, setting the category, URL, and permalink, "
+"etc."
+msgstr ""
+"「FullSite-patterner」をインストールしたら、ロゴ画像の設定と、文章の変更、カ"
+"テゴリー、URL、パーマリンクの設定をして、独自サイトにしていきましょう。"
+
+#: patterns/menu-4-column-1.php:67
+msgid ""
+"The setting method of the block theme \"FullSite-patterner\", explanation of "
+"the pattern, and how to customize the site will be posted on the official "
+"website (full-site-patterner.com/en)."
+msgstr ""
+"ブロックテーマ「FullSite-patterner」の設定方法、パターンの説明、カスタマイズ"
+"方法は公式サイト（full-site-patterner.com）に掲載いたします。"
+
+#: patterns/menu-4-column-2.php:25
+msgid ""
+"1-column, 2-column, full-width, with or without background image, block that "
+"can replace the entire page, header, footer, content, etc. for each part."
+msgstr ""
+"1カラム、2カラム、全幅、背景画像あり、なしなどのページ全体、ヘッダー、フッ"
+"ター、コンテンツなどをパーツごとに取り換え可能なブロック。"
+
+#: patterns/menu-4-column-2.php:39
+msgid ""
+"A plug-in for using the function of \"FullSite-Patterner\", which can "
+"replace block patterns such as the entire page, header, footer, content, "
+"etc., with other themes."
+msgstr ""
+"ページ全体、ヘッダー、フッター、コンテンツなど、ブロックパターンの差し替えが"
+"できる「FullSite-Patterner」の機能を、他のテーマで利用するためのプラグイン。"
+
+#: patterns/menu-4-column-2.php:53
+msgid ""
+"We also provide plugins that allow you to set meta tags, canonical tags, "
+"head tags, breadcrumbs, and structured data automatically or by input."
+msgstr ""
+"メタタグ、canonical、head内タグ、パンくずリスト、構造化データを自動的に、また"
+"は入力して設定できるプラグインも提供しています。"
+
+#: patterns/menu-4-column-2.php:67
+msgid ""
+"The official site (full-site-patterner.com/en) has Q&A on how to use it, how "
+"to customize it, how to use plugins, and future development plans."
+msgstr ""
+"公式サイト（full-site-patterner.com）では、使用方法、カスタマイズ方法、プラグ"
+"イン利用、今後の開発予定などをQ&Aにしています。"
+
+#: patterns/pagetop.php:14
+msgid "skip to contents"
+msgstr "コンテンツにスキップ"
+
+#: update-checker/Puc/v5p0/Plugin/Ui.php:56
+msgid "View details"
+msgstr ""
+
+#: update-checker/Puc/v5p0/Plugin/Ui.php:79
+#, php-format
+msgid "More information about %s"
+msgstr ""
+
+#: update-checker/Puc/v5p0/Plugin/Ui.php:130
+msgid "Check for updates"
+msgstr ""
+
+#: update-checker/Puc/v5p0/Plugin/Ui.php:217
+#, php-format
+msgctxt "the plugin title"
+msgid "The %s plugin is up to date."
+msgstr ""
+
+#: update-checker/Puc/v5p0/Plugin/Ui.php:219
+#, php-format
+msgctxt "the plugin title"
+msgid "A new version of the %s plugin is available."
+msgstr ""
+
+#: update-checker/Puc/v5p0/Plugin/Ui.php:221
+#, php-format
+msgctxt "the plugin title"
+msgid "Could not determine if updates are available for %s."
+msgstr ""
+
+#: update-checker/Puc/v5p0/Plugin/Ui.php:227
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr ""
+
+#: update-checker/Puc/v5p0/Vcs/PluginUpdateChecker.php:98
+msgid "There is no changelog available."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "FullSite-Patterner"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://full-site-patterner.com/en"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"\"FullSite-Petterner\" is a Wordpress block theme that you can easily "
+"install and replace the entire page with patterns, and you can freely "
+"replace headers, footers, menus, and parts. The theme style is based on "
+"Bootstrap5.3."
+msgstr ""
+"「FullSite-Patterner」は、簡単に設置して、ページ全体をパターンごと差し替えで"
+"き、ヘッダー、フッター、メニュー、パーツの差し替えも自由なWordpressのブロック"
+"テーマです。Bootstrap5.3に準拠したテーマのスタイルを採用しています。"
+
+#. Author of the plugin/theme
+msgid "Masamichi Kanehara"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://full-site-patterner.com/en/agreement/"
+msgstr ""
+
+#~ msgid ""
+#~ "[Background image URL] Add the \"Custom HTML\" widget with +, enter the "
+#~ "logo image URL (from https://), and update."
+#~ msgstr ""
+#~ "【背景画像URL】「カスタムHTML」のウィジェットを＋で追加し、ロゴ画像のURL"
+#~ "（https://から）を記入し、更新する"
+
+#~ msgid "After installing \"FullSite-patterner\", let"
+#~ msgstr ""
+#~ "「FullSite-patterner」をインストールしたら、ロゴ画像の設定と、文章の変更、"
+#~ "カテゴリー、URL、パーマリンクの設定をして、独自サイトにしていきましょう。"
+
+#~ msgid ""
+#~ "\"FullSite-Patterner\" is a WordPress theme that is easy to install and "
+#~ "completes the same site as the sample site in no time. In addition to "
+#~ "being able to replace entire pages by pattern, you can also freely "
+#~ "replace headers, footers, menus, and various parts."
+#~ msgstr ""
+#~ "「FullSite-Patterner」は、簡単に設置して、ページ全体をパターンごと差し替え"
+#~ "でき、ヘッダー、フッター、メニュー、パーツの差し替えも自由なWordPressのブ"
+#~ "ロックテーマです。"
+
+#~ msgid ""
+#~ "Installation of \"FullSite-Patterner-plugin\" is recommended. A large "
+#~ "number of block patterns can be categorized, and \"breadcrumb\" patterns "
+#~ "and shortcodes are also available."
+#~ msgstr ""
+#~ "「FullSite-Patterner-plugin」をインストールして、多数のブロックパターンを"
+#~ "カテゴリー分けでき、「パンくずリスト」パターンやショートコードも利用できま"
+#~ "す。"
+
+#~ msgid ""
+#~ "If you use \"FullSite-Patterner-seo\" together, meta tags, canonical "
+#~ "tags, OGP tags, structured data, etc. can be inserted freely or "
+#~ "automatically."
+#~ msgstr ""
+#~ "「FullSite-Patterner-seo」を併用すれば、meta tag、canonicalタグ、OGPタグ、"
+#~ "構造化データなども自由に、または自動的に挿入されます。"
+
+#~ msgid ""
+#~ "Explains how to install and set up \"FullSite-Petterner\". All you have "
+#~ "to do is set the category, URL, permalink, logo image, etc."
+#~ msgstr ""
+#~ "「FullSite-patterner」のインストール、設置方法について説明しています。あと"
+#~ "はカテゴリー、URL、パーマリンク、ロゴ画像などを設定していくだけ。"
+
+#~ msgid ""
+#~ "We will post how to install, change settings, and customize web site with "
+#~ "the block theme \"FullSite-Petterner\"."
+#~ msgstr ""
+#~ "ブロックテーマ「FullSite-patterner」のインストール方法、設定の変更、カスタ"
+#~ "マイズ方法を掲載いたします。"
+
+#~ msgid ""
+#~ "You can change the whole page, header, footer, etc. by replacing block "
+#~ "patterns, and use the function that allows you to register patterns with "
+#~ "other themes."
+#~ msgstr ""
+#~ "ページ全体、ヘッダー、フッター、コンテンツなど、ブロックパターンの差し替え"
+#~ "でデザイン変更でき、パターンの登録もできる機能を、他のテーマでも利用。"
+
+#~ msgid ""
+#~ "Q&A about \"FullSite-patterner\" installation, usage, customization, plug-"
+#~ "in usage, future development schedule, etc."
+#~ msgstr ""
+#~ "ForestCafe-blockの設置、使用方法、カスタマイズ方法、プラグイン利用、今後の"
+#~ "開発予定などをQ&Aにしています。"
+
+#~ msgid "enter the title..."
+#~ msgstr "タイトルを入力・・・"
+
+#~ msgid "[Title of My block pattern001]Add the \"Custom HTML\""
+#~ msgstr "【Myブロックパターン001のタイトル】"
+
+#~ msgid "[Code of My block pattern001]Add the \"Custom HTML\" or other blocks"
+#~ msgstr "【Myブロックパターン001のコード/ブロック】"
+
+#~ msgid "[Title of My block pattern002]Add the \"Custom HTML\""
+#~ msgstr "【Myブロックパターン002のタイトル】"
+
+#~ msgid "[Code of My block pattern002]Add the \"Custom HTML\" or other blocks"
+#~ msgstr "【Myブロックパターン002のコード/ブロック】"
+
+#~ msgid "[Title of My block pattern003]Add the \"Custom HTML\""
+#~ msgstr "【Myブロックパターン003のタイトル】"
+
+#~ msgid "[Code of My block pattern003]Add the \"Custom HTML\" or other blocks"
+#~ msgstr "【Myブロックパターン003のコード/ブロック】"
+
+#~ msgid "[Title of My block pattern004]Add the \"Custom HTML\""
+#~ msgstr "【Myブロックパターン004のタイトル】"
+
+#~ msgid "[Code of My block pattern004]Add the \"Custom HTML\" or other blocks"
+#~ msgstr "【Myブロックパターン004のコード/ブロック】"
+
+#~ msgid "[Title of My block pattern005]Add the \"Custom HTML\""
+#~ msgstr "【Myブロックパターン005のタイトル】"
+
+#~ msgid "[Code of My block pattern005]Add the \"Custom HTML\" or other blocks"
+#~ msgstr "【Myブロックパターン005のコード/ブロック】"
+
+#, fuzzy
+#~| msgid ""
+#~| "\"FullSite-Patterner\" is a WordPress block theme that you can easily "
+#~| "install and replace the entire page with patterns, and freely replace "
+#~| "headers, footers, and parts."
+#~ msgid ""
+#~ "“FullSite-Petterner” is a Wordpress block theme that you can easily "
+#~ "install and replace the entire page with patterns, and you can freely "
+#~ "replace headers, footers, menus, and parts."
+#~ msgstr ""
+#~ "「FullSite-Patterner」は、簡単に設置して、ページ全体をパターンごと差し替え"
+#~ "でき、ヘッダー、フッター、メニュー、パーツの差し替えも自由なWordPressのブ"
+#~ "ロックテーマです。"
+
+#~ msgctxt "Tested up to:"
+#~ msgid "Tested-up-to:"
+#~ msgstr "テーマのテストをした最新バージョン:"
+
+#~ msgctxt "Requires PHP:"
+#~ msgid "Resuires-PHP:"
+#~ msgstr "必要なPHPバージョン:"
