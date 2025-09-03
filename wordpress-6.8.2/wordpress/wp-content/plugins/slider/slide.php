@@ -1,0 +1,3 @@
+/*
+ * Plugin Name: Slide Bar
+ */
